@@ -1,0 +1,32 @@
+[
+    {
+        "name": "The Godfather",
+        "description": "Stanley Kubrick once described Francis Ford Coppola's adaptation of Mario Puzo's novel as the best film ever made, and we're hardly going to argue.",
+        "rating": 5
+    },
+    {
+        "name": "The Empire Strikes Back",
+        "description": "The original \"this one's darker\" sequel, and by far the strongest of the saga. Not just because the baddies win (temporarily), or because it Force-slammed us with that twist (\"No, I am your father\"). Empire super-stardestroys thanks to the way it deepens the core relationships — none more effectively than Han and Leia's. She loves him. He knows. And it still hurts.",
+        "rating": 5
+    },
+    {
+        "name": "The Dark Knight",
+        "description": "Easily as influential on the genre as that other summer '08 comic-book movie, Iron Man, Christopher Nolan's Batman Begins sequel works wonders because he never saw it as a superhero film. It's closer to a Michael Mann crime epic — except instead of Pacino and De Niro in a diner, you get a bloke dressed as a bat and a psychotic clown in a police interrogation room. With, er, Aaron Eckhart as Val Kilmer...",
+        "rating": 5
+    },
+    {
+        "name": "The Shawshank Redemption",
+        "description": "The warm, leathery embrace of Morgan Freeman's narration... The reassuringly Gary Cooper-ish rumple of Tim Robbins' face... Odd that a movie which features such harshness and tragedy should remain a feel-good perennial — even odder when you consider it was a box-office flop on release. Few directorial debuts are so deftly constructed; no surprise, then, that Frank Darabont has yet to top it.",
+        "rating": 5
+    },
+    {
+        "name": "Pulp Fiction",
+        "description": "If Reservoir Dogs was a blood-spattered calling card, Pulp Fiction saw Quentin Tarantino kick our front door off its hinges — and then get applauded for doing it with such goddamn panache. It wore its numerous influences on its sleeve and yet felt utterly, invigoratingly fresh and new. We happy? Yeah, we happy.",
+        "rating": 5
+    },
+    {
+        "name": "Goodfellas",
+        "description": "Where Coppola embroiled us in the politics of the Mafia elite, Martin Scorsese drew us into the treacherous but seductive world of the Mob's foot soldiers. And its honesty was as impactful as its sudden outbursts of (usually Joe Pesci-instigated) violence. Not merely via Henry Hill's (Ray Liotta) narrative, but also Karen's (Lorraine Bracco) perspective: when Henry gives her a gun to hide, she admits, \"It turned me on.\"",
+        "rating": 5
+    }
+]
